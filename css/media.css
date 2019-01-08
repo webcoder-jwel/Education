@@ -1,0 +1,1133 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/*hr*/
+hr{
+	border-bottom: 4px dashed white;
+}
+/*hr*/
+/* start header */
+.navbar-brand img{
+	width: 180px;
+}
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+ .dropdown{
+	text-align: right;
+} 
+.drop_right{
+	left: unset;
+	right: 0;
+}
+.custom_menu{
+	right: 0;
+	}
+.searchbar{
+	text-align: right;
+	padding-right: 20px;
+}
+/* end header */
+/* start banner */
+.banner_content {
+    margin-top: 100px;
+    margin-bottom: 90px;
+    }
+.banner_content h1{
+	font-size: 28px;
+	}
+.scroll h2{
+	font-size: 16px;
+}
+/* end banner */
+/* start our_kid1 */
+.our_kid1{
+	padding: 50px 0px;
+}
+.kid_title {
+    margin-bottom: 20px;
+    }
+.kid_title h1{
+	font-size: 19px;
+	margin-bottom: 15px;
+	}
+
+.about_title h2{
+	font-size: 17px;
+	}
+.about_title hr{
+	width: 140px;
+	margin-top: 10px;
+    margin-bottom: 20px;
+	}
+
+.about_title img{
+	width: 140px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+	}
+
+/* end our_kid1 */
+/* start courses */
+.courses {
+    padding: 50px 0px;
+}
+.courses_title h1{
+	font-size: 19px;
+	}
+.courses_title {
+    margin-bottom: 30px;
+}
+.courses_title img {
+    margin-top: 15px;
+    margin-bottom: 40px;
+	}
+.card_mb{
+	margin-bottom: 30px;
+	}
+.custom_btn{
+	margin-top: 30px;
+}
+/* end courses */
+/* start our_kid2 */
+.our_kid2{
+	padding: 50px 0px;
+	}
+.kid_title h2{
+	font-size: 23px;
+}
+.activities h3{
+	font-size: 18px;
+	word-spacing: 2px;
+	margin-bottom: 20px;
+}
+ .kid_title {
+    margin-bottom: 30px;
+	}
+.activities img{
+    margin-top: 20px;
+	}
+/* end our_kid2 */
+/*  start moments */
+.moments{
+	padding: 50px 0px;
+}
+.moments_title h1{
+	font-size: 19px;
+	margin-bottom: 15px;
+}
+.moments_title img{
+	margin-bottom: 40px;
+}
+.m-btm img{
+	margin-top: 30px;
+	width: 140px;
+}
+/*  end moments */
+/*start twitter*/
+.twitter {
+    padding: 50px 0px;
+    }
+.twitter_content i {
+    font-size: 45px;
+    margin-bottom: 5px;
+    }
+.twitter_content p {
+    font-size: 16px;
+    margin-top: 15px;
+    line-height: 25px;
+    word-spacing: 2px;
+    }
+.twitter_content .t_color {
+    font-size: 15px;
+    margin-top: 10px;
+    }
+    /*end twitter*/
+    /*start teachers*/
+.t_heading h1{
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.t_heading hr{
+    border-bottom: 4px dashed #fff;
+    margin-bottom: 30px;
+}
+.linda, .Jesical, .Jack, .Phill{
+    font-size: 20px;
+}
+.t_content h4{
+    font-size: 15px;
+}
+.t_content p{
+    line-height: 25px;
+}
+.t_content{
+    text-align: center;
+}
+.t_content h3{
+    margin: 0 auto;
+}
+.t_mb_m{
+    margin-bottom: 30px;
+}
+    /*end teachers*/
+    /*start counter*/
+.counter{
+    padding: 50px 0px;
+}
+.count_title h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.count_title hr{
+    border-bottom: 4px dashed #fff;
+    margin-bottom: 30px;
+    width: 150px;
+} 
+.count h2{
+    font-size: 25px;
+    line-height: 16px;
+}
+.count h3{
+    font-size: 15px;
+    line-height: 18px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+}
+.m_b{
+    margin-bottom: 40px;
+}
+.s_m_b{
+    margin-bottom: 40px;
+}
+    /*end counter*/
+    /*start events*/
+.events{
+    padding: 50px 0px;
+}
+.events_title h1, .news_title h1{
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.events_title {
+    margin-bottom: 30px;
+}
+.events_title hr, .news_title hr{
+    margin: 0 auto;
+}
+.date{
+    height: 70px;
+    width: 70px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.date_mb{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.date h1{
+    font-size: 30px;
+}
+.date h2{
+    font-size: 16px;
+}
+.date_des{
+    margin-top: 0px;
+}
+.date_des h3{
+    font-size: 19px;
+    margin: 0;
+}
+.date_des p{
+    margin: 0;
+    font-size: 15px;
+}
+.date_des .para{
+    word-spacing: 3px;
+    margin-bottom: 18px;
+    margin-top: 10px;
+    }
+    /*end events*/
+    /*start news*/
+.new_img img{
+    margin-bottom: 20px;
+}
+.news_title{
+    margin-bottom: 30px;
+}
+.news_content{
+    text-align: center;
+}
+.news_content h1{
+    font-size: 19px;
+}
+.news_content p{
+    font-size: 15px;
+}
+.m_b {
+    margin-bottom: 30px;
+    }
+    /*end news*/
+    /*start contact*/
+.contact{
+    background: none;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+} 
+.instagram h2, .con_title h2, .singup h2{
+    font-size: 18px;
+    margin-bottom: 8px;
+    line-height: unset;
+}
+.instagram hr, .con_title hr, .singup hr{
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.giraffe img{
+    width: 140px;
+    margin-bottom: 20px;
+}
+.giraffe p:first-of-type {
+    margin-bottom: 18px;
+}
+.giraffe p{
+    font-size: 15px;
+    line-height: unset;
+    margin-bottom: 5px;
+}
+.contuct_us p{
+    margin-bottom: 10px;
+}
+/*end contact*/
+/*start footer*/
+.f_menu ul{
+    text-align: center;
+}
+.f_menu ul li a{
+    font-size: 15px;
+    padding: 0px 5px;
+}
+
+.copyright p{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 16px;
+}
+/*end footer*/
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*hr*/
+hr{
+	border-bottom: 5px dashed white;
+}
+/*hr*/
+/* start header */
+.navbar-brand img{
+	width: 180px;
+}
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+  .dropdown{
+	text-align: right;
+} 
+.drop_right{
+	left: unset;
+	right: 0;
+}
+/* .custom_menu{
+	right: 0;
+}
+ */
+ .searchbar{
+	text-align: right;
+	padding-right: 20px;
+}
+/* end header */
+/* start banner */
+.banner_content {
+    margin-top: 120px;
+    margin-bottom: 150px;
+    }
+ .banner_content h1{
+ 	font-size: 33px;
+ 	}
+.scroll h2{
+	font-size: 16px;
+}
+/* end banner */
+/* start our_kid1 */
+.our_kid1{
+	padding: 60px 0px;
+	}
+.kid_title h1{
+	font-size: 22px;
+	margin-bottom: 15px;
+	}
+.about_title h2 {
+    font-size: 18px;
+	}
+.kid_title {
+    margin-bottom: 30px;
+    }
+ .about_title h2{
+ 	font-size: 18px;
+ }
+.about_title img{
+	width: 180px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+
+/* end our_kid1 */
+/* start courses */
+ .courses {
+    padding: 60px 0px;
+	}
+.courses_title {
+    margin-bottom: 30px;
+	}
+.courses_title img {
+    margin-bottom: 50px;
+    margin-top: 15px;
+	}
+.card_mb{
+	margin-bottom: 23px!important;
+	}
+.card_mt{
+	margin-top: 30px;
+}
+.age {
+    padding-right: 17px;
+}
+.courses_title h1{
+	font-size: 22px;
+}
+.card-title{
+	font-size: 20px;
+}
+.card-text{
+	font-size: 15px;
+}
+.custom_btn{
+	margin-top: 40px;
+}
+
+ /* start courses */
+ /* start our_kid2 */
+ .our_kid2{
+ 	padding: 60px 0px 50px 0px;
+ 	}
+ .kid_title {
+    margin-bottom: 30px;
+	}
+.activities img{
+    margin-top: 30px;
+	}
+.activities h3{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+	 /* start our_kid2 */
+/*  start moments */
+.moments{
+	padding: 60px 0px;
+}
+.moments_title h1{
+	font-size: 19px;
+	margin-bottom: 15px;
+}
+.moments_title img{
+	margin-bottom: 40px;
+}
+.m-btm img{
+	margin-top: 30px;
+	width: 200px;
+}
+/*  end moments */
+/*start twitter*/
+.twitter {
+    padding: 60px 0px;
+    }
+.twitter_content i{
+    font-size: 50px;
+}
+.twitter_content p {
+    font-size: 15px;
+    margin-top: 20px;
+    line-height: 20px;
+    word-spacing: 3px;
+    }
+.twitter_content .t_color {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 15px;
+    }
+    /*end twitter*/
+    /*start teachers*/
+.t_heading h1{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.t_heading hr{
+    border-bottom: 5px dashed #fff;
+    margin-bottom: 40px;
+}
+.tc_mb{
+    margin-top: 10px;
+}
+.linda, .Jesical, .Jack, .Phill{
+    font-size: 20px;
+}
+.t_content h4{
+    font-size: 15px;
+}
+.t_content hr{
+    margin-bottom: 10px;
+}
+.t_content p{
+    line-height: 25px;
+}
+.t_mb_m{
+    margin-bottom: 30px;
+}
+    /*end teachers*/
+    /*start counter*/
+.counter{
+    padding: 60px 0px;
+}
+.count_title h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.count_title hr{
+    border-bottom: 4px dashed #fff;
+    margin-bottom: 30px;
+    width: 150px;
+} 
+.count h2{
+    font-size: 25px;
+    line-height: 16px;
+}
+.count h3{
+    font-size: 15px;
+    line-height: 18px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+}
+.m_b{
+    margin-bottom: 40px;
+}
+    /*end counter*/
+    /*start events*/
+.events{
+    padding: 60px 0px 0px 0px;
+}
+.events_title h1, .news_title h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.events_title {
+    margin-bottom: 30px;
+}
+.events_title hr, .news_title hr{
+    margin: 0 auto;
+}
+.date{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.date_mb{
+    margin-bottom: 30px;
+}
+.date h1{
+    font-size: 35px;
+}
+.date_des{
+    margin-top: 0px;
+}
+.date_des h3{
+    font-size: 20px;
+}
+.date_des .para{
+    word-spacing: 3px;
+    margin-bottom: 18px;
+    }
+    /*end events*/
+    /*start news*/
+.news_title{
+    margin-bottom: 30px;
+}
+.news_content h1{
+    font-size: 20px;
+}
+.news_content p{
+    font-size: 15px;
+}
+.m_b {
+    margin-bottom: 30px;
+    }
+
+    /*end news*/
+    /*start contact*/
+.contact{
+    padding-top: 170px;
+    padding-bottom: 20px;
+} 
+.instagram h2, .con_title h2, .singup h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: unset;
+}
+.instagram hr, .con_title hr, .singup hr{
+    margin-bottom: 20px;
+    width: 150px;
+    margin-top: 0;
+}
+.giraffe img{
+    width: 130px;
+    margin-bottom: 20px;
+}
+.giraffe p:first-of-type {
+    margin-bottom: 15px;
+}
+.giraffe p{
+    font-size: 15px;
+    line-height: unset;
+    margin-bottom: 6px;
+}
+.contuct_us p{
+    margin-bottom: 10px;
+}
+/*end contact*/
+/*start footer*/
+.f_menu ul{
+    text-align: center;
+}
+.f_menu ul li a{
+    font-size: 15px;
+    padding: 0px 5px;
+}
+
+.copyright p{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 16px;
+}
+/*end footer*/
+ }
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*hr*/
+hr{
+	border-bottom: 5px dashed white;
+}
+/*hr*/
+/* start header */
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+  .dropdown{
+ 	text-align: right;
+ }  
+
+.drop_right{
+	left: unset;
+	right: 0;
+}
+.searchbar{
+	text-align: right;
+	padding-right: 20px;
+}
+/* end header */
+/* stat banner */
+.banner_content h1{
+	font-size: 38px;
+}
+.banner_content {
+    margin-top: 160px;
+    margin-bottom: 100px;
+    }
+ .scroll h2{
+ 	font-size: 16px;
+ 	}
+/* end banner */
+/* start our_kid1 */
+ .our_kid1{
+ 	padding: 70px 0px;
+ }
+ .kid_title h1{
+ 	font-size: 22px;
+ 	margin-bottom: 15px;
+ 	}
+ .about_title h2{
+ 	font-size: 19px;
+ 	}
+ .about_title hr{
+ 	margin-top: 10px;
+    margin-bottom: 28px;
+ 	}
+.about_img{
+	margin-top: 70px;
+	}
+.about_title img{
+	width: 210px;
+}
+/* end our_kid1 */
+/* start our_kid2 */
+.our_kid2{
+	padding: 70px 0px;
+}
+.activities h3{
+	font-size: 19px;
+}
+/* end our_kid2 */
+/* start courses */
+ .courses {
+    padding: 70px 0px;
+	}
+.courses_title img {
+    margin-bottom: 50px;
+    margin-top: 15px;
+	}
+.courses_title {
+    margin-bottom: 30px;
+	}
+.card_mb{
+	margin-bottom: 0px!important;
+	}
+.card_mt{
+	margin-top: 30px;
+}
+.math_mb,.skill_mb{
+	margin-bottom: 0px!important;
+}
+
+ /* end courses */
+/*  start moments */
+.moments{
+	padding: 70px 0px;
+}
+.moments_title h1{
+	font-size: 22px;
+}
+.moments_title img{
+	margin-bottom: 50px;
+}
+.m-btm img{
+	margin-top: 30px;
+	width: 210px;
+}
+/*  end moments */
+/*start twitter*/
+.twitter {
+    padding: 70px 0px;
+    }
+.twitter_content i{
+    font-size: 50px;
+}
+.twitter_content p {
+    font-size: 15px;
+    margin-top: 25px;
+    line-height: 25px;
+    word-spacing: 3px;
+    }
+.twitter_content .t_color {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+    }
+    /*end twitter*/
+    /*start teachers*/
+.t_heading h1{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.t_heading hr{
+    border-bottom: 5px dashed #fff;
+    margin-bottom: 40px;
+}
+.t_mb_m{
+    margin-bottom: 30px;
+}
+.p_d_0{
+    padding: 0;
+}
+.tc_mb{
+    margin-top: 10px;
+}
+    /*end teachers*/
+    /*start counter*/
+.counter{
+    padding: 70px 0px;
+}
+.count_title h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.count_title hr{
+    border-bottom: 4px dashed #fff;
+    margin-bottom: 30px;
+    width: 150px;
+} 
+.count h2{
+    font-size: 25px;
+    line-height: 10px;
+}
+.count h3{
+    font-size: 16px;
+    line-height: 18px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+}
+    /*end counter*/
+    /*start events*/
+.events{
+    padding: 70px 0px 0px 0px;
+}
+.events_title h1, .news_title h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.events_title {
+    margin-bottom: 30px;
+}
+.events_title hr, .news_title hr{
+    margin: 0 auto;
+}
+.date{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.date_mb{
+    margin-bottom: 30px;
+}
+.date h1{
+    font-size: 35px;
+}
+.date_des h3{
+    font-size: 20px;
+}
+.date_des .para{
+    word-spacing: 3px;
+    margin-bottom: 18px;
+    }
+    /*end events*/
+    /*start news*/
+.news_title{
+    margin-bottom: 30px;
+}
+.news_content h1{
+    font-size: 20px;
+}
+.m_b {
+    margin-bottom: 30px;
+    }
+
+    /*end news*/
+    /*start contact*/
+.contact{
+    padding-top: 180px;
+    padding-bottom: 30px;
+} 
+.instagram h2, .con_title h2, .singup h2{
+    font-size: 19px;
+    margin-bottom: 0    px;
+    line-height: unset;
+}
+.instagram hr, .con_title hr, .singup hr{
+    margin-bottom: 30px;
+    width: 150px;
+}
+.giraffe img{
+    width: 170px;
+}
+.giraffe p:first-of-type {
+    margin-bottom: 18px;
+}
+.giraffe p{
+    font-size: 15px;
+    line-height: unset;
+    margin-bottom: 8px;
+}
+.contuct_us p{
+    margin-bottom: 12px;
+}
+/*end contact*/
+/*start footer*/
+.f_menu ul li a{
+    font-size: 15px;
+    padding: 0px 5px;
+}
+
+.copyright p{
+    text-align: right;
+    font-size: 15px;
+    margin-top: 16px;
+}
+/*end footer*/
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* start banner */
+.banner_content {
+    margin-top: 180px;
+    margin-bottom: 220px;
+}
+.banner_content h1{
+	font-size: 43px;
+}
+.scroll h2{
+	font-size: 16px;
+}
+.kid_title h1{
+	font-size: 25px;
+	margin-bottom: 18px;
+	}
+.about_title h2{
+	font-size: 21px;
+}
+.about_title img{
+	width: 210px;
+}
+/* end banner */
+/* start our_kid1 */
+.our_kid1 {
+    padding: 80px 0px;
+    }
+.moments {
+    padding: 80px 0px;
+	}
+.moments_title img {
+    margin-bottom: 60px;
+	}
+.m-btm img {
+    margin-top: 30px;
+    width: 210px;
+	}
+.about_img{
+	margin-top: 40px;
+}
+.activities h3{
+	font-size: 22px;
+	letter-spacing: 2px;
+	word-spacing: 0px;
+}
+/* end our_kid1 */
+/* start courses */
+.courses {
+    padding: 80px 0px;
+	}
+.courses_title h1{
+	font-size: 25px;
+}
+.card_mb{
+	margin-bottom: 0px!important;
+	}
+.card-title{
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+.card-text{
+	font-size: 15px;
+}
+.card-footer{
+	font-size: 15px;
+}
+.age{
+	padding-right: 4px;
+}
+.math_mb{
+	margin-bottom: 44px!important;
+}
+.art_mb{
+	margin-bottom: 22px!important;
+}
+/* end courses */
+/*start twitter*/
+.twitter {
+    padding: 80px 0px;
+    }
+.twitter_content i{
+    font-size: 50px;
+}
+.twitter_content p {
+    font-size: 15px;
+    margin-top: 25px;
+    line-height: 25px;
+    word-spacing: 3px;
+    }
+.twitter_content .t_color {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 20px;
+    }
+    /*end twitter*/
+    /*start teachers*/
+.t_heading h1{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.t_heading hr{
+    border-bottom: 5px dashed #fff;
+    margin-bottom: 40px;
+}
+.t_mb_m{
+    margin-bottom: 30px;
+}
+.p_d_0{
+    /*padding: 0;*/
+}
+.tc_mb{
+    margin-top: 10px;
+}
+    /*end teachers*/
+    /*start counter*/
+.counter{
+    padding: 80px 0px;
+}
+.count_title h1 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.count_title hr{
+    border-bottom: 4px dashed #fff;
+    margin-bottom: 30px;
+    width: 150px;
+} 
+.count h2{
+    font-size: 25px;
+    line-height: 10px;
+}
+.count h3{
+    font-size: 16px;
+    line-height: 18px;
+    word-spacing: 0px;
+    letter-spacing: 1px;
+}
+    /*end counter*/
+    /*start events*/
+.events{
+    padding: 80px 0px 0px 0px;
+}
+.events_title h1, .news_title h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.events_title {
+    margin-bottom: 30px;
+}
+.events_title hr, .news_title hr{
+    margin: 0 auto;
+}
+.date{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+.date_mb{
+    margin-bottom: 30px;
+}
+.date h1{
+    font-size: 35px;
+}
+.date_des h3{
+    font-size: 20px;
+}
+.date_des .para{
+    word-spacing: 3px;
+    margin-bottom: 18px;
+    }
+    /*end events*/
+    /*start news*/
+.news_title{
+    margin-bottom: 30px;
+}
+.news_content h1{
+    font-size: 20px;
+}
+.m_b {
+    margin-bottom: 30px;
+    }
+
+    /*end news*/
+    /*start contact*/
+.contact{
+    padding-top: 180px;
+    padding-bottom: 30px;
+} 
+.instagram h2, .con_title h2, .singup h2{
+    font-size: 19px;
+    margin-bottom: 0    px;
+    line-height: unset;
+}
+.instagram hr, .con_title hr, .singup hr{
+    margin-bottom: 30px;
+    width: 150px;
+}
+.giraffe img{
+    width: 170px;
+}
+.giraffe p:first-of-type {
+    margin-bottom: 18px;
+}
+.giraffe p{
+    font-size: 15px;
+    line-height: unset;
+    margin-bottom: 8px;
+}
+.contuct_us p{
+    margin-bottom: 12px;
+}
+/*end contact*/
+/*start footer*/
+.f_menu ul li a{
+    font-size: 15px;
+    padding: 0px 5px;
+}
+
+.copyright p{
+    text-align: right;
+    font-size: 15px;
+    margin-top: 16px;
+}
+/*end footer*/
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+ }
